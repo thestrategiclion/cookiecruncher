@@ -4,6 +4,7 @@ Script for processing cookies exported with Cookie Manager addon for Firefox
 https://github.com/ysard/cookie-quick-manager
 
 How to use:
+- create 2 subfolders "process" and "output" under main script directory
 - export the cookies using the addon in a json format
 - place the json file into the "process" subfolder of the project
 - run "node ." in the terminal
